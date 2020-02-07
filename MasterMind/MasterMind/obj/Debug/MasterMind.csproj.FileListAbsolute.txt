@@ -4,3 +4,4 @@ C:\Users\sebeo\Desktop\SeBeom_Lee_Quadax\MasterMind\MasterMind\bin\Debug\MasterM
 C:\Users\sebeo\Desktop\SeBeom_Lee_Quadax\MasterMind\MasterMind\obj\Debug\MasterMind.csprojAssemblyReference.cache
 C:\Users\sebeo\Desktop\SeBeom_Lee_Quadax\MasterMind\MasterMind\obj\Debug\MasterMind.exe
 C:\Users\sebeo\Desktop\SeBeom_Lee_Quadax\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
+C:\Users\sebeo\Desktop\SeBeom_Lee_Quadax\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache

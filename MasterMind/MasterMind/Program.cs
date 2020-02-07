@@ -66,7 +66,7 @@ namespace MasterMind
             {
                 target[i] = oRand.Next(1, 7);
             }
-            Console.WriteLine(String.Format("{0}, {1}, {2}, {3}", target[0], target[1], target[2], target[3]));
+
             for (int i = 0; i < 10; i++)
             {
                 Console.Write("Trial "+(i+1).ToString()+": Enter a four digit number: ");
@@ -93,7 +93,8 @@ namespace MasterMind
             }
             if (!win)
             {
-                Console.WriteLine("You failed! Try next time!");
+                Console.WriteLine(String.Format("You failed! The answer was {0}, {1}, {2}, {3}", target[0], target[1], target[2], target[3]));
+                Console.WriteLine("Try next time!");
             }
             Console.Write("===================\nPress Enter to quit.");
             Console.ReadLine();
