@@ -1,0 +1,6 @@
+C:\Users\sebeo\Desktop\SeBeom_Lee_Quadax\MasterMind\MasterMind\bin\Release\MasterMind.exe.config
+C:\Users\sebeo\Desktop\SeBeom_Lee_Quadax\MasterMind\MasterMind\bin\Release\MasterMind.exe
+C:\Users\sebeo\Desktop\SeBeom_Lee_Quadax\MasterMind\MasterMind\bin\Release\MasterMind.pdb
+C:\Users\sebeo\Desktop\SeBeom_Lee_Quadax\MasterMind\MasterMind\obj\Release\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\sebeo\Desktop\SeBeom_Lee_Quadax\MasterMind\MasterMind\obj\Release\MasterMind.exe
+C:\Users\sebeo\Desktop\SeBeom_Lee_Quadax\MasterMind\MasterMind\obj\Release\MasterMind.pdb
