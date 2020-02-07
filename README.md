@@ -1,11 +1,12 @@
 #Mastermind
+
 SeBeom Lee
 
 Started a project at 6:30 pm, finished at 7:11 pm
 
 A shortcut to an executable file is in ./MasterMind
 
-The program address a user to write four digit number in a given format.
+The program addresses a user to write a four digit number in a given format.
 A user has 10 turns to guess the number correctly.
 
 Thank you for your time and consideration.
