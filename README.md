@@ -2,7 +2,7 @@
 
 SeBeom Lee
 
-Started a project at 6:30 pm, finished at 7:11 pm
+Started a project at 4:30 pm, finished at 5:11 pm
 
 A shortcut to an executable file is in ./MasterMind
 
